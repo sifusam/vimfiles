@@ -306,3 +306,7 @@ autocmd BufReadPost fugitive://*
   \   nnoremap <buffer> .. :edit %:h<CR> |
   \ endif
 
+nmap <F8> :TagbarToggle<CR>
+colorscheme molokai
+let g:molokai_original = 1
+

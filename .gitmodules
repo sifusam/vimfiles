@@ -97,3 +97,6 @@
 [submodule "bundle/vim-snipmate"]
     path = bundle/vim-snipmate
     url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = git://github.com/tomasr/molokai.git
